@@ -1,3 +1,3 @@
 # Routine-Optimization
 
-hi
+A Routine Optimization Website helps users streamline their daily schedules for greater productivity and balance. The platform allows users to input tasks, set priorities, and generate optimized routines using smart algorithms. By tracking progress and offering personalized suggestions, it ensures users stay on track while seamlessly integrating with calendars and apps for convenience.
